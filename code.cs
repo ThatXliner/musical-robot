@@ -1,3 +1,3 @@
 Console.WriteLine("hello")
 
-Console.WriteLine("Bye!")
+Console.WriteLine("Bye, bye!")
